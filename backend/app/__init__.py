@@ -1,0 +1,1 @@
+"""SpartanMatch backend application package."""
